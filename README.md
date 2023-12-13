@@ -1,4 +1,4 @@
-# TO USE THE SUMMARIZER WEBSITE click below 
+# GPT-Summarizer - Click Below
 # https://precis-ai-three.vercel.app/
 
 ![Screenshot (58)](https://github.com/Saunakghosh10/Precis-ai/assets/76943154/ba7d0bf2-5772-48a6-86ad-4aacad386519)
@@ -53,8 +53,8 @@ License
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
 Contact
-For any questions or inquiries, please reach out to me at saunakghosh710@example.com.
+For any questions or inquiries, please reach out to me at official.spatra@gmail.com
 
-Follow me on LinkedIn: saunakghosh
+Follow me on LinkedIn: https://www.linkedin.com/in/soumik-patra/
 
 Enjoy the power of Website Summarizer! Make browsing the web more efficient and productive. Generate concise summaries for any website in just a few clicks!
